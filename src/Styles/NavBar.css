@@ -1,0 +1,34 @@
+ant-layout {
+    min-height: 100% !important;
+  }
+  
+  .logo {
+    height: 32px;
+    background: rgba(255,255,255,.2);
+    margin: 16px;
+  }
+  
+  .sidebar-full{
+    background: #222;
+  }
+  
+  .sidebar-menu{
+    background: #222;
+  }
+  
+  .sidebar-menu>.ant-menu-item-selected {
+    background-color: #FF5A5F !important;
+  }
+  
+  .topbar-full {
+    background: #222;
+  }
+  
+  .topbar-menu {
+    background: #222;
+    border-bottom-color: #222 !important;
+  }
+  
+  .ant-layout-sider-trigger {
+    background: #333333;
+  }
